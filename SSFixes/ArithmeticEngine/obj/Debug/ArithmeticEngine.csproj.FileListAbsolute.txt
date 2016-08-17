@@ -1,0 +1,20 @@
+C:\Users\Matthew\Desktop\Computer Science\SpreadsheetTake2\ArithmeticEngine\obj\Debug\ArithmeticEngine.csprojResolveAssemblyReference.cache
+C:\Users\Matthew\Desktop\Computer Science\SpreadsheetTake2\ArithmeticEngine\bin\Debug\ArithmeticEngine.dll
+C:\Users\Matthew\Desktop\Computer Science\SpreadsheetTake2\ArithmeticEngine\bin\Debug\ArithmeticEngine.pdb
+C:\Users\Matthew\Desktop\Computer Science\SpreadsheetTake2\ArithmeticEngine\obj\Debug\ArithmeticEngine.dll
+C:\Users\Matthew\Desktop\Computer Science\SpreadsheetTake2\ArithmeticEngine\obj\Debug\ArithmeticEngine.pdb
+F:\SpreadsheetTake2\ArithmeticEngine\bin\Debug\ArithmeticEngine.dll
+F:\SpreadsheetTake2\ArithmeticEngine\bin\Debug\ArithmeticEngine.pdb
+F:\SpreadsheetTake2\ArithmeticEngine\obj\Debug\ArithmeticEngine.csprojResolveAssemblyReference.cache
+F:\SpreadsheetTake2\ArithmeticEngine\obj\Debug\ArithmeticEngine.dll
+F:\SpreadsheetTake2\ArithmeticEngine\obj\Debug\ArithmeticEngine.pdb
+C:\Users\Matthew\Desktop\SSFixes\ArithmeticEngine\bin\Debug\ArithmeticEngine.dll
+C:\Users\Matthew\Desktop\SSFixes\ArithmeticEngine\bin\Debug\ArithmeticEngine.pdb
+C:\Users\Matthew\Desktop\SSFixes\ArithmeticEngine\obj\Debug\ArithmeticEngine.csprojResolveAssemblyReference.cache
+C:\Users\Matthew\Desktop\SSFixes\ArithmeticEngine\obj\Debug\ArithmeticEngine.dll
+C:\Users\Matthew\Desktop\SSFixes\ArithmeticEngine\obj\Debug\ArithmeticEngine.pdb
+C:\Users\Matthew\Desktop\Computer Science\SSFixes\ArithmeticEngine\bin\Debug\ArithmeticEngine.dll
+C:\Users\Matthew\Desktop\Computer Science\SSFixes\ArithmeticEngine\bin\Debug\ArithmeticEngine.pdb
+C:\Users\Matthew\Desktop\Computer Science\SSFixes\ArithmeticEngine\obj\Debug\ArithmeticEngine.csprojResolveAssemblyReference.cache
+C:\Users\Matthew\Desktop\Computer Science\SSFixes\ArithmeticEngine\obj\Debug\ArithmeticEngine.dll
+C:\Users\Matthew\Desktop\Computer Science\SSFixes\ArithmeticEngine\obj\Debug\ArithmeticEngine.pdb

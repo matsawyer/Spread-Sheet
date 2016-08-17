@@ -1,0 +1,2 @@
+The Bad reference (from inputting out of indices row and columns cell references)has a handler function to keep it from breaking. I think it may warn you of a bad input and ask if there is a handler present, just proceed through that.
+-Matt

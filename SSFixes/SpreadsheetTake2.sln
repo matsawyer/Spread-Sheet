@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpreadsheetTake2", "SpreadsheetTake2\SpreadsheetTake2.csproj", "{DBA676F8-559D-4E71-A103-2388A002CB73}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpreadSheetEngine", "SpreadSheetEngine\SpreadSheetEngine.csproj", "{127F4203-1A48-40A7-A3B1-4D6334C67D1B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArithmeticEngine", "ArithmeticEngine\ArithmeticEngine.csproj", "{1F696ACC-8FC2-41E5-8920-854765E3A94A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBA676F8-559D-4E71-A103-2388A002CB73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBA676F8-559D-4E71-A103-2388A002CB73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBA676F8-559D-4E71-A103-2388A002CB73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBA676F8-559D-4E71-A103-2388A002CB73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{127F4203-1A48-40A7-A3B1-4D6334C67D1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{127F4203-1A48-40A7-A3B1-4D6334C67D1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{127F4203-1A48-40A7-A3B1-4D6334C67D1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{127F4203-1A48-40A7-A3B1-4D6334C67D1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F696ACC-8FC2-41E5-8920-854765E3A94A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F696ACC-8FC2-41E5-8920-854765E3A94A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F696ACC-8FC2-41E5-8920-854765E3A94A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F696ACC-8FC2-41E5-8920-854765E3A94A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
